@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="star" >
+        <attr name="cir_color" format="color"/>
+        <attr name="line_color" format="color"/>
+        <attr name="cir_radius" format="dimension" />
+        <attr name="cir_width" format="dimension" />
+        <attr name="line_width" format="dimension" />
+    </declare-styleable>
+
+</resources>
