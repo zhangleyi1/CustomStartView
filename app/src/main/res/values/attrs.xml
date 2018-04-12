@@ -7,5 +7,4 @@
         <attr name="cir_width" format="dimension" />
         <attr name="line_width" format="dimension" />
     </declare-styleable>
-
 </resources>
